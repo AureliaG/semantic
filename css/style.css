@@ -1,0 +1,24 @@
+
+/*---Titre et sous-titre---*/
+.titreairbnb {
+	color: pink;
+	font-family: 'Circular', sans-serif;
+	color: rgb(255,88,98);
+}
+
+.ui.grey.header {
+	font-size: 40px;
+	/*font-family: 'Lato', sans-serif;*/
+	font-weight: 100;
+	font-family: 'Circular', sans-serif;
+}
+
+/*---Logo---*/
+.logo {
+	max-width: 50px;
+	height: auto;
+}
+
+.ui.right.floated.horizontal.link.list {
+	font-family: 'Circular', sans-serif;
+}

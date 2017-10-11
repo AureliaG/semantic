@@ -71,3 +71,102 @@
 
 }
 
+/* CSS Experience Part Amine */
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+}
+
+#experiencestitle {
+  font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif;
+  font-size: 28px;
+  padding-left: 184px;
+  color: #484848;
+}
+
+.experiencestitle {
+  display: flex;
+  justify-content: space-between;
+}
+
+#experiences {
+  display: inline-block;
+}
+
+#logements {
+  display: inline-block;
+}
+
+#tokyosubtitle1 {
+  font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif;
+  font-size: 10px;
+  font-weight: bold;
+  text-align: left;
+  text-transform: uppercase;
+  line-height: 18px;
+  color: rgb(160, 61, 12);
+}
+
+#berlinsubtitle1 {
+  font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif;
+  font-size: 10px;
+  font-weight: bold;
+  text-align: left;
+  text-transform: uppercase;
+  line-height: 18px;
+  color: rgb(250, 187, 13);
+}
+
+#barcelonesubtitle1 {
+  font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif;
+  font-size: 10px;
+  font-weight: bold;
+  text-align: left;
+  text-transform: uppercase;
+  line-height: 18px;
+  color: rgb(3, 72, 101);
+}
+
+#parissubtitle1 {
+  font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif;
+  font-size: 10px;
+  font-weight: bold;
+  text-align: left;
+  text-transform: uppercase;
+  line-height: 18px;
+  color: rgb(88, 169, 231);
+}
+
+.generalexperiences {
+  text-align: center;
+}
+
+#subtext1 {
+  font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+  text-align: left;
+  line-height: 18px;
+  color: #484848;
+}
+
+#cost1 {
+  font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif;
+  font-size: 13px;
+  font-weight: lighter;
+  text-align: left;
+  line-height: 18px;
+}
+
+#grad0 {
+  text-align: left;
+}
+
+#plus {
+  padding-right: 186px;
+}
+
+/* CSS Experience Part Amine END */

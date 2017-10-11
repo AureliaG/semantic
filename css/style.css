@@ -170,3 +170,27 @@ html {
 }
 
 /* CSS Experience Part Amine END */
+
+/*CSS Addal et Ali*/
+.descrip {
+	color: #484848;
+	font-family: circular, sans-serif;
+}
+
+.descrip p {
+	line-height: 0.9em;
+}
+
+.header-logement h3{
+	color: #484848;
+	font-family: circular, sans-serif;
+	font-size: 1.7em;
+	margin-left: 1em;
+}
+
+.header-logement {
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 0;
+}
+/*Fin Addal et Ali*/
